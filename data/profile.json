@@ -1,0 +1,29 @@
+{
+    "name": "Abelya Dwi Cahyani - Diploma Student in Electronics Engineering",
+    "description": "I am an active associate degree student in Electronics Engineering at Politeknik Negeri Semarang. With strong experience in assembling electronic components, I am passionate about expanding my technical expertise through relevant work experience and real-world projects.",
+    "profileImage": "images/Abel.png",
+    "email": "abelyacahyani27@gmail.com",
+    "phone": "+62 889 5140 706",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "www.linkedin.com/in/abelya-dwi-cahyani-2837b22b9"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/blyaa.27/"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV1.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Circuit Design", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 80},
+        {"name": "Web Programming", "icon": "fas fa-c", "level": 60},
+        {"name": "Assembling Electronic Components", "icon": "fas fa-tools", "level": 80}
+    ]
+}
